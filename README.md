@@ -76,7 +76,7 @@ To run the application, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/dheerajkallakuri/AllinOneFilters.git
+   git clone https://github.com/sandeep-jais/photo-filters.git
    ```
 
 2. **Navigate to the Project Directory:**
