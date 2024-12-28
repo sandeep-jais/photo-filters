@@ -1,0 +1,17 @@
+In this project has three filters
+
+1.Basic filters
+run: python basicFilters.py
+
+2.Insta filters
+run: python instaFilters.py
+
+3.Apple filters
+run: python iphoneFilters.py
+
+for installation package
+
+pip install module_name
+
+Introduction: Sir first of all i made this 
+
